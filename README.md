@@ -1,2 +1,2 @@
 # CMPS-115
-My work for group project
+Intro to Software Engineering work.
